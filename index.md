@@ -1,4 +1,4 @@
-![UrFU logo](/OS-UNIX/img/head.png)
+![UrFU logo](img/head.png)
 
 ## Операционная система UNIX
 
